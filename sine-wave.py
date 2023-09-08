@@ -1,3 +1,4 @@
+# ************************ programe to generate a sine wave pattern using asterisks******************
 import math
 
 # Set the parameters for the sine wave
@@ -5,8 +6,8 @@ amplitude = 10
 frequency = 10
 
 # Define the size of the grid
-width = 180
-height = 130
+width =180
+height =120
 
 # Create a blank grid
 grid = [[' ' for _ in range(width)] for _ in range(height)]
